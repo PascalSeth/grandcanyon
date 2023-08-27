@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/grandcanyon/static/css/main.31c49b25.css",
+    "main.js": "/grandcanyon/static/js/main.89e65361.js",
+    "static/media/front_world.png": "/grandcanyon/static/media/front_world.2012e110969ee39387b0.png",
+    "static/media/discover_3.png": "/grandcanyon/static/media/discover_3.122c40669c206bc7b212.png",
+    "static/media/discover_2.png": "/grandcanyon/static/media/discover_2.70603a5e9e3092916067.png",
+    "static/media/funds_6.png": "/grandcanyon/static/media/funds_6.01f394191de6164564b2.png",
+    "static/media/funds_1.png": "/grandcanyon/static/media/funds_1.50bec3cbad3a4610c7ec.png",
+    "static/media/funds_8.png": "/grandcanyon/static/media/funds_8.f2d203da5d78fe3a145d.png",
+    "static/media/funds_7.png": "/grandcanyon/static/media/funds_7.b12f6c5aae0d5745f9f1.png",
+    "static/media/funds_4.png": "/grandcanyon/static/media/funds_4.6b8a2b3f558497e5a51d.png",
+    "static/media/discover_1.png": "/grandcanyon/static/media/discover_1.cb342550c1d3e047abdc.png",
+    "static/media/funds_2.png": "/grandcanyon/static/media/funds_2.f9999175d375856b02ef.png",
+    "static/media/funds_3.png": "/grandcanyon/static/media/funds_3.4863020faa6fee139d73.png",
+    "static/media/funds_5.png": "/grandcanyon/static/media/funds_5.1636e78129f2944918ee.png",
+    "static/media/news_2.png": "/grandcanyon/static/media/news_2.8b9a45c6d4ddeee96efa.png",
+    "static/media/news_3.png": "/grandcanyon/static/media/news_3.f812e448737081d43e27.png",
+    "static/media/news_4.png": "/grandcanyon/static/media/news_4.52fe1fbbcbeacdd356a0.png",
+    "static/media/news_5.png": "/grandcanyon/static/media/news_5.1b2346834bf10e85c27e.png",
+    "static/media/quiz_illustration.png": "/grandcanyon/static/media/quiz_illustration.98df4324d2cbd7158906.png",
+    "static/media/quiz_bg.png": "/grandcanyon/static/media/quiz_bg.d0b9dab21890b151af5e.png",
+    "static/media/how_1.png": "/grandcanyon/static/media/how_1.0dd63cd6b9f7ad1b929d.png",
+    "static/media/how_2.png": "/grandcanyon/static/media/how_2.1f23c1f786a1a8f55926.png",
+    "static/media/how_4.png": "/grandcanyon/static/media/how_4.3e2e0d39a904a6c6be55.png",
+    "static/media/how_3.png": "/grandcanyon/static/media/how_3.9c1cd2c0c6a738e1c02c.png",
+    "static/media/logo.jpg": "/grandcanyon/static/media/logo.8b23187a4fc1b67edf26.jpg",
+    "index.html": "/grandcanyon/index.html",
+    "main.31c49b25.css.map": "/grandcanyon/static/css/main.31c49b25.css.map",
+    "main.89e65361.js.map": "/grandcanyon/static/js/main.89e65361.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31c49b25.css",
+    "static/js/main.89e65361.js"
+  ]
+}
