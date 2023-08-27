@@ -1,6 +1,6 @@
 {
   "homepage": "http://PascalSeth.github.io/grandcanyon",
-  "name": "grandcanyon-landing",
+  "name": "grandcanyon",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
